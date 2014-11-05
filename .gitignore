@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/code/*.suo
+/code/bin
+/code/testproj/obj
+/code/testproj/bin
+/code/protobuf_dotnet_light_testor/obj
+/code/protobuf_dotnet_light/obj
+/code/protobuf_dotnet_light/bin

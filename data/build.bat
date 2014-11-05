@@ -1,0 +1,1 @@
+..\proto_gen_csharp\protogen -i:test.proto -o:test.cs 
