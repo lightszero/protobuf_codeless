@@ -1,0 +1,6 @@
+D:\protoc\code\ProtocolBuffers\obj\NET35\Debug\ProtocolBuffers.NET35.csprojResolveAssemblyReference.cache
+D:\protoc\code\ProtocolBuffers\obj\NET35\Debug\Google.ProtocolBuffers.dll
+D:\protoc\code\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.xml
+D:\protoc\code\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.dll
+D:\protoc\code\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.pdb
+D:\protoc\code\ProtocolBuffers\obj\NET35\Debug\Google.ProtocolBuffers.pdb

@@ -1,0 +1,5 @@
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.xml
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.dll
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET35\Debug\Google.ProtocolBuffers.pdb
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\obj\NET35\Debug\Google.ProtocolBuffers.dll
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\obj\NET35\Debug\Google.ProtocolBuffers.pdb

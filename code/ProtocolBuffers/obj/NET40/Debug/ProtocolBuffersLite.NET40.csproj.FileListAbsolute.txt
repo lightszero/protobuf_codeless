@@ -1,0 +1,6 @@
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET40\Debug\Google.ProtocolBuffersLite.xml
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET40\Debug\Google.ProtocolBuffersLite.dll
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\bin\NET40\Debug\Google.ProtocolBuffersLite.pdb
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\obj\NET40\Debug\ProtocolBuffersLite.NET40.csprojResolveAssemblyReference.cache
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\obj\NET40\Debug\Google.ProtocolBuffersLite.dll
+D:\protobuf\protobuf-csharp-port-2.4.1.521-source(r523)\src\ProtocolBuffers\obj\NET40\Debug\Google.ProtocolBuffersLite.pdb

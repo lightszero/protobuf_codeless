@@ -1,0 +1,5 @@
+message TestMsg {  
+  required string query = 1;  
+  optional int32 pagenumber = 2;  
+  optional int32 result_per_page = 3;  
+}  
